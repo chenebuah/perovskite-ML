@@ -27,7 +27,7 @@ X=df.drop("Eg",1)
 df['Eg'] = df['Eg'].astype('float64') 
 y = np.asarray(df['Eg']) # Code simulated for predicting the energy bandgap.
 
-# Model 1 - Grdient boosting regression (GBR)
+# Model 1 - Gradient boosting regression (GBR)
 from sklearn.ensemble import GradientBoostingRegressor
 X_train1, X_test1, y_train1, y_test1 = train_test_split( X, y, test_size=0.1, random_state=9)
 gbr = GridSearchCV (GradientBoostingRegressor (),{
