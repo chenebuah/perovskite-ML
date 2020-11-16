@@ -7,8 +7,8 @@ The high cost of high-throughput screening and ab-initio Density Functional Theo
 # References
 1 - C. Li, H. Hao, B. Xu, G. Zhao, L. Chen, S. Zhang, H. Liu, A progressive learning method for predicting the band gap of ABO3 perovskites using an instrumental variable, J. Mater. Chem. C, 8, (2020), 3127.
 
-2 - 8.	Q. Xu, Z. Li, M. Liu, W.J. Yin, Rationalizing Perovskite Data for Machine Learning and Materials Design, J. Phys. Chem. Lett., 9, (2018), 6948−6954.
+2 - Q. Xu, Z. Li, M. Liu, W.J. Yin, Rationalizing Perovskite Data for Machine Learning and Materials Design, J. Phys. Chem. Lett., 9, (2018), 6948−6954.
 
-3 - 31.	S. Lu, Q. Zhou, Y. Ouyang, Y. Guo, Q. Li, J. Wang, Accelerated discovery of stable lead-free hybrid organic-inorganic perovskites via machine learning, Nature Comm., 9(1), (2018), 3405.
+3 - S. Lu, Q. Zhou, Y. Ouyang, Y. Guo, Q. Li, J. Wang, Accelerated discovery of stable lead-free hybrid organic-inorganic perovskites via machine learning, Nature Comm., 9(1), (2018), 3405.
 
-4 - 9.	S. Körbel, M.A.L. Marques, S. Botti, Stability and electronic properties of new inorganic perovskites from high-throughput ab initio calculations, J. Mater. Chem. C, 4(15), (2016), 3157–3167.
+4 - S. Körbel, M.A.L. Marques, S. Botti, Stability and electronic properties of new inorganic perovskites from high-throughput ab initio calculations, J. Mater. Chem. C, 4(15), (2016), 3157–3167.
