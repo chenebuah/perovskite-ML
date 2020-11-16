@@ -1,8 +1,10 @@
-# COMPARATIVE ANALYSIS OF ML APPROACHES ON THE PREDICTION OF THE ELECTRONIC PROPERTIES OF PEROVSKITE:
-# A CASE STUDY OF THE ABX3 AND A2BB'X6 STRUCTURES
+# COMPARATIVE ANALYSIS OF ML APPROACHES ON THE PREDICTION OF THE ELECTRONIC PROPERTIES OF PEROVSKITE: A CASE STUDY OF THE ABX3 AND A2BB'X6 STRUCTURES
 
-# AUTHOR - Ericsson Chenebuah| University of Ottawa, Canada. 
-# email: echen013@uottawa.ca (15-Nov-2020)
+# AUTHOR - (1) * Ericsson Chenebuah, (1) Michel Nganbe and (2) Alain Tchagang 
+# 1: Department of Mechanical Engineering, University of Ottawa, 75 Laurier Ave. East, Ottawa, ON, K1N 6N5 Canada
+# 2: Digital Technologies Research Centre, National Research Council of Canada, 1200 Montréal Road, Ottawa, ON, K1A 0R6 Canada
+# * email: echen013@uottawa.ca 
+# (15-Nov-2020)
 
 import pandas as pd
 import pylab as pl
